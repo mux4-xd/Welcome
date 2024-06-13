@@ -1,0 +1,22 @@
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Ahhh gc</title>
+	<style>
+		body {
+			background-color: #f2f2f2;
+		}
+		.message {
+			color: #FF0000; /* Red color */
+			font-size: 36px;
+			font-weight: bold;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<div class="message">Welcome to Ahhh gc</div>
+</body>
+</html>
+```
